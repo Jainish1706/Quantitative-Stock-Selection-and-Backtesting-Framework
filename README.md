@@ -1,4 +1,4 @@
-# Quantitative Stock Selection and Trading Strategy
+# Quantitative Stock Selection and Backtesting Framework
 
 ## Overview
 This project implements a **quantitative stock selection and trading strategy** using **fundamental analysis, backtesting, Monte Carlo simulations, and technical indicators**. The code is designed to select stocks, optimize portfolio weights, and implement a **closed-loop trading strategy** based on buy/sell signals.
